@@ -1,4 +1,3 @@
-# Comment-Category-Prediction-Challenge
 # Comment Category Prediction Challenge
 
 Multiclass classification of user-generated comments using a hybrid TF-IDF + engineered-metadata pipeline, tuned Logistic Regression / LightGBM models, and a soft-voting ensemble.
